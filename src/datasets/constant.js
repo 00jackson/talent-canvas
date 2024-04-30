@@ -11,8 +11,8 @@ export const Bio = {
 
     email: "jacksonkujur12@gmail.com",
     resume:
-        "https://drive.google.com/file/d/1Dmp-1vabETQrDS6hEnvtRiE_mrn-BoaV/view?usp=drive_link",
-    leetcode: "https://leetcode.com/themagnificentjackson",
+        "https://drive.google.com/file/d/1iD3HQhEDpgJkIj2T1-FAVm_0VxsMvpjn/view?usp=drive_link",
+    leetcode: "https://leetcode.com/u/that_guy77/",
     // codechef: "https://www.codechef.com/users/jackson_7/",
     linkedin: "https://www.linkedin.com/in/contact-jacksonkujur/",
     twitter: "https://twitter.com/Jackedonbagpipe",
