@@ -196,9 +196,23 @@ export const skills = [
 export const experiences = [
     {
         id: 0,
-        img: "https://media1-production-mightynetworks.imgix.net/asset/88625ef9-b93e-4433-ae29-24f9819bb50b/Frame_1321316237__1_.png?ixlib=rails-4.2.0&auto=format&w=260&h=260&fit=crop&impolicy=Avatar&crop=faces",
+        img: "https://media.licdn.com/dms/image/C4E0BAQFOoMh7JzKuGg/company-logo_200_200/0/1670783543968/storyvord_logo?e=1722470400&v=beta&t=2CthX7PdrPzbIZkmh8fc-bC0QCICZg7dbEbECMxVHgw",
+        role: "Frontend Developer Intern ",
+        company: "Storyvord",
+        date: "April 2024 - Present",
+        desc: ["Conducted research on industry trends and competitor analysis to inform frontend development strategies. Shadowed senior developers to observe best practices in frontend development techniques and tools.Explored frontend frameworks and libraries such as React to enhance skillset and readiness for upcoming tasks."],
+        skills: [
+            "HTML",
+            "React JS",
+            "Tailwind CSS",
+            
+        ],
+    },
+    {
+        id: 1,
+        img: "https://media.licdn.com/dms/image/D4D0BAQFM2yEFiYZfew/company-logo_200_200/0/1710708108304/radicalai_li_logo?e=1722470400&v=beta&t=3KOCvsZMk0Kh0_OYj9GfAGdLE5cnjw2FR-4qzsbe56I",
         role: "Artificial Intelligence Engineer Intern ",
-        company: "RadicalX",
+        company: "Radical AI",
         date: "November 2023 - Present",
         desc: ["Spearheaded the development of Trivia-Tesseract, a generative AI-powered system leveraging OpenAI and Tensorflow, resulting in a remarkable 40% cost reduction through dynamic quiz generation.",
             " Managed UI enhancements and comprehensive AI model reports optimizing the web application by 30% alongside a dedicated team."],
@@ -214,10 +228,10 @@ export const experiences = [
         //doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
     {
-        id: 1,
-        img: "https://media.licdn.com/dms/image/C4D0BAQGaO22dHvdukA/company-logo_200_200/0/1674715235278/desiqna_logo?e=1712188800&v=beta&t=8ew1dcemBrtaFtAy2IbYZELJtQCE6iKtWWr1sWWJ-U0",
+        id: 2,
+        img: "https://media.licdn.com/dms/image/D4D0BAQFHUN3-LG2_BA/company-logo_200_200/0/1709386841118/itjobxs_logo?e=1722470400&v=beta&t=4r6aU9lme0J_TEyiaTsZ3B5XdaEksKazwnU14y82bDU",
         role: "Software Development Engineer Intern",
-        company: "Desi Qna",
+        company: "IT JOBXS",
         date: "May 2023 - July 2023",
         desc: ["Managed the design and development of a fully responsive webpage for a particular section of Desi QnA.",
             "Developed User Verification/Authentication and Engineering, tackled challenges of detecting and removing the fake bots and posts and Integrated Recaptcha with the website, using Google Layer of Protection"],
