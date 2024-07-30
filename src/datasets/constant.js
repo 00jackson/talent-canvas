@@ -26,8 +26,10 @@ export const experiences = [
         img: "https://media.licdn.com/dms/image/C4E0BAQFOoMh7JzKuGg/company-logo_200_200/0/1670783543968/storyvord_logo?e=1722470400&v=beta&t=2CthX7PdrPzbIZkmh8fc-bC0QCICZg7dbEbECMxVHgw",
         role: "Frontend Developer Intern ",
         company: "Storyvord",
-        date: "April 2024 - Present",
-        desc: ["Conducted research on industry trends and competitor analysis to inform frontend development strategies. Shadowed senior developers to observe best practices in frontend development techniques and tools.Explored frontend frameworks and libraries such as React to enhance skillset and readiness for upcoming tasks."],
+        date: "April 2024 - July 2024",
+        desc: ["Contributed considerably to the data pipeline for AI model training by investigating and putting into practice cutting-edge
+web scraping strategies to obtain valuable data and improved user authentication procedures, file management capabilities, and document generating functionalities by closely
+working with cross-functional teams to design and construct multiple user interfaces."],
         skills: [
             "HTML",
             "React JS",
@@ -282,6 +284,18 @@ export const skills = [
 
 
 export const projects = [
+    {
+        id: 11,
+        title: "Mockview",
+        date: "June 2024 - July 2024",
+        description: "  The application provides AI-generated answers and tailored assessments based on specific job roles, tech stacks, and experience levels. It includes features such as real-time camera-based assessments, automated feedback with ratings and correct answers, and the ability for users to reattempt tests with historical feedback. To ensure focus and maintain the integrity of the assessments, security measures were implemented to prevent tab switching during tests.",
+        image:"https://i.pinimg.com/564x/10/89/e6/1089e64b2edb045733459675242c991f.jpg",
+        tags:[ "Next Js", "Javascript", "Tailwind CSS","PostgreSQL", "Google Gemini", "ShadcnUI"],
+        category:"web app",
+        github:"https://github.com/00jackson/mockview",
+        webapp:"https://mockview-six.vercel.app/",
+            
+    },    
          {
         id: 7,
         title: "Conversa",
