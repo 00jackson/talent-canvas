@@ -289,7 +289,7 @@ export const projects = [
         id: 11,
         title: "Mockview",
         date: "June 2024 - July 2024",
-        description: "  The application provides AI-generated answers and tailored assessments based on specific job roles, tech stacks, and experience levels. It includes features such as real-time camera-based assessments, automated feedback with ratings and correct answers, and the ability for users to reattempt tests with historical feedback. To ensure focus and maintain the integrity of the assessments, security measures were implemented to prevent tab switching during tests.",
+        description: " The application provides AI-generated answers and tailored assessments based on specific job roles, tech stacks, and experience levels. It includes features such as real-time camera-based assessments, automated feedback with ratings and correct answers, and the ability for users to reattempt tests with historical feedback. To ensure focus and maintain the integrity of the assessments, security measures were implemented to prevent tab switching during tests.",
         image:"https://i.pinimg.com/564x/10/89/e6/1089e64b2edb045733459675242c991f.jpg",
         tags:[ "Next Js", "Javascript", "Tailwind CSS","PostgreSQL", "Google Gemini", "ShadcnUI"],
         category:"web app",
@@ -306,7 +306,7 @@ export const projects = [
         image:
             "https://i.pinimg.com/564x/ab/5e/3b/ab5e3b2a9a041ce9a03c14758298708d.jpg",
         tags: [
-"React.js + Vite", "CSS", "Gemini API"
+"React.js + Vite", "CSS", "Gemini API",
         ],
         category: "web app",
         github: "https://github.com/00jackson/Conversa",
