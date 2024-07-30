@@ -31,8 +31,9 @@ export const experiences = [
 web scraping strategies to obtain valuable data and improved user authentication procedures, file management capabilities, and document generating functionalities by closely
 working with cross-functional teams to design and construct multiple user interfaces."],
         skills: [
-            "HTML",
-            "React JS",
+            "Python",
+            "Next JS",
+            "Shadcn UI",
             "Tailwind CSS",
             
         ],
